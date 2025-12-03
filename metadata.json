@@ -1,0 +1,5 @@
+{
+  "name": "DepthFX Previewer",
+  "description": "A WebGL-based tool to visualize 3D parallax effects using an image and a depth map.",
+  "requestFramePermissions": []
+}
